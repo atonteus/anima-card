@@ -1,5 +1,5 @@
 ###  <blockquote>  ! Card Animation !  </blockquote>
 <br/>
-Componente de Card animado com interação, css pure.
+Interactive Card Component, pure css.
 #### About the project :: >>
 
